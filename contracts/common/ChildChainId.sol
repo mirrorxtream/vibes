@@ -1,4 +1,4 @@
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.17;
 
 contract ChildChainId {
   bytes constant public networkId = hex"89";
